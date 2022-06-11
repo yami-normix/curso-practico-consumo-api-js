@@ -1,0 +1,19 @@
+{
+  "name": "curso-practico-consumo-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yami-normix/curso-practico-consumo-api-js.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yami-normix/curso-practico-consumo-api-js/issues"
+  },
+  "homepage": "https://github.com/yami-normix/curso-practico-consumo-api-js#readme"
+}
